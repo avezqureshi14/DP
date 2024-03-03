@@ -1,0 +1,56 @@
+DP on Grids
+1] Express in terms of i,j Base Case
+2] Explore all paths 
+3] Sum all paths if u want to count all paths , or if want to find max or min find max || min
+
+#DP
+
+//01 KnapSack  Brute Force Approach find all the combinations and find the value of all the combination the maximum value combination will be the best 
+
+
+How to know it is a DP problem
+Count the no. of ways 
+Min of all the outputs 
+Max  of all the outputs
+
+
+Whenever use see try all possible ways we use recursion  
+Trick
+1] Try to represent a problem in terms of index 
+2] Do all possiblle stuffs on that index according to problem statement 
+3] If question says count all ways -> sum of all stuffs  
+    If question says find minimum -> return min of all stuffs and vice versa  
+
+
+void pairStar(string &str)
+{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is one bus service you want to avoid at night  there is a bus route in singapore numbered 975 that can get creepy at night BUS 975 goes through a place called LIM CHU KANG road and is known to stop at every bus stop whether there are passengers  or not well you see the reason for this is that LIM CHU KANG road is laden with cementries and vegetation and bus captains of this route have been told that don't follow this procedure it isn't going to just be human passengers that follow the bus back to the station from claims of ghostly figures flagging down 975 at bus tops that no longer exists to the bus stop bell going off even when there are no passengers on board the route that 975 takes is known to be more than just a regular bus ride but if u find yourself i sunny singapore you should know that 
+
